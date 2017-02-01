@@ -1,0 +1,4 @@
+/*Some css fixes to use night theme with IPython slides*/
+.reveal {
+font-size: 200%;
+}
