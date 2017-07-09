@@ -12,6 +12,7 @@
 * title: "Genetic diagnosis of Mendelian disorders via RNA sequencing."
 * corresponding [paper](https://www.nature.com/articles/ncomms15824) 
 * [**slides**](https://baderd.github.io/presentations/docs/2017-05-29_baderda_eshg_talk.pdf)
+* [conference website](https://2017.eshg.org/)
 
 
 ## 2017-07-05 PhD defense
