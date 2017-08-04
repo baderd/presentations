@@ -19,5 +19,8 @@
 * title: "Consequences of DNA variation on gene regulation and human disease 
 via RNA sequencing"
 * group: Julien Gagneur, Computational biology, [homepage](http://www.gagneurlab.in.tum.de/)
-* LMU Faculty of Chemistry and Pharmacy
+* [PhD thesis](https://edoc.ub.uni-muenchen.de/20943/) 
+  at the LMU Faculty of Chemistry and Pharmacy
 * [**slides**](https://baderd.github.io/presentations/docs/2017-07-05_baderda_phd_defense.pdf)
+  of the defense talk
+  
