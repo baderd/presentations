@@ -12,6 +12,7 @@
 * title: "Genetic diagnosis of Mendelian disorders via RNA sequencing."
 * corresponding [paper](https://www.nature.com/articles/ncomms15824) 
 * [**slides**](https://baderd.github.io/presentations/docs/2017-05-29_baderda_eshg_talk.pdf)
+* [conference website](https://2017.eshg.org/)
 
 
 ## 2017-07-05 PhD defense
@@ -20,7 +21,7 @@
 via RNA sequencing"
 * group: Julien Gagneur, Computational biology, [homepage](http://www.gagneurlab.in.tum.de/)
 * [PhD thesis](https://edoc.ub.uni-muenchen.de/20943/) 
-  at the LMU Faculty of Chemistry and Pharmacy
+  at the LMU Faculty of Chemistry and Pharmacy 
 * [**slides**](https://baderd.github.io/presentations/docs/2017-07-05_baderda_phd_defense.pdf)
   of the defense talk
   
