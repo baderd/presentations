@@ -25,3 +25,7 @@ via RNA sequencing"
 * [**slides**](https://baderd.github.io/presentations/docs/2017-07-05_baderda_phd_defense.pdf)
   of the defense talk
   
+## 2017-10-04 meetup: Allianz DataViz Challenge
+
+- Link to github.io for [my solution](https://baderd.github.io/dataviz_challenge_allianz/)
+- First prize among 4 valid submissions, yeah!
